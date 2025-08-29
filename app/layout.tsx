@@ -7,9 +7,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Suspense } from "react"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "Vital Sync",
+  description: "A modern, secure, and patient‑centric platform for tracking post‑surgery recovery with insights for you and your care team.",
+  generator: "Atharv Kumar",
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
