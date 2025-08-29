@@ -5,7 +5,7 @@ It empowers patients to track their healing progress, while doctors and care tea
 
 🌐 Live Demo
 
-👉 Try Vital Sync here
+👉 Try Vital Sync here - https://vital-sync-zeta.vercel.app/
 
 ✨ Key Features
 
@@ -74,5 +74,6 @@ MIT License © 2025 Vital Sync
 📄 License
 
 MIT License © 2025 Vital Sync
+
 
 
