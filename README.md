@@ -70,11 +70,17 @@ npm install
 # Run locally
 npm run dev
 
+```
+---
+
 # 👥 Team
-Atharv Kumar – Frontend, UI/UX, System Design
-Adyant Singh
-Aum Srivastava
-Saumya Prasad
+- Atharv Kumar – Frontend, UI/UX, System Design
+- Adyant Singh
+- Aum Srivastava
+- Saumya Prasad
+
+---
 
 # 📄 License
-MIT License © 2025 Vital Sync
+**MIT License © 2025 Vital Sync**
+
