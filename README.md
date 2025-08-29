@@ -3,21 +3,25 @@
 Vital Sync is a modern, secure, and patient-centric platform designed to bridge the gap between patients and healthcare providers during the post-surgery recovery journey.
 It empowers patients to track their healing progress, while doctors and care teams gain valuable insights for timely interventions.
 
+🌐 Live Demo
+
+👉 Try Vital Sync here
+
 ✨ Key Features
 
-🔐 Secure Authentication – Patients and doctors can sign up/login with role-based access.
+🔐 Secure Authentication – Role-based login for patients & doctors.
 
-🧑‍⚕️ Doctor Verification – Doctors must upload valid credentials for approval before accessing the dashboard.
+🧑‍⚕️ Doctor Verification – Upload valid medical documents for approval.
 
-📊 Recovery Dashboard – Patients track daily pain levels, mobility, wound healing, and medications in one place.
+📊 Recovery Dashboard – Track pain levels, mobility, wound healing, and medications in one place.
 
-🤖 AI Wound Risk Detection – Patients can upload wound images, and the AI model predicts infection risk (Low/Medium/High).
+🤖 AI Wound Risk Detection – Upload wound images and get infection risk predictions (Low/Medium/High).
 
-📢 Smart Alerts – Doctors are notified if a patient’s condition trends toward complication.
+📢 Smart Alerts – Doctors notified if patient recovery trends show possible complications.
 
-🌗 Dark Mode & Light Mode – Professional, accessible design for all users.
+🌗 Dark Mode & Light Mode – Accessible design for all users.
 
-🎨 Customizable Placeholders – Styled image placeholders that can be swapped later with medical illustrations or photos.
+🎨 Image Placeholders – Ready for custom medical illustrations/photos.
 
 🚀 Tech Stack
 
@@ -26,21 +30,21 @@ Frontend: Next.js
 , TailwindCSS
 , shadcn/ui
 
-Backend: Node.js (with simple mock APIs for hackathon demo)
+Backend: Node.js (mock APIs for demo)
 
-AI Model: Basic image classifier (infection risk demo)
+AI Model: Simple image classifier (infection risk demo)
 
-Deployment: Vercel / GitHub Pages
+Deployment: Vercel
 
 📌 Why Vital Sync?
 
-Prevents life-threatening post-surgery complications by enabling early detection.
+Prevents life-threatening post-surgery complications with early detection.
 
-Strengthens doctor-patient communication outside hospital walls.
+Strengthens doctor-patient communication beyond hospital walls.
 
-Provides data-driven insights to doctors for better decision-making.
+Provides data-driven insights for better recovery outcomes.
 
-Designed to be hackathon-ready, scalable, and easily extendable.
+Designed to be hackathon-ready, scalable, and extendable.
 
 🛠️ Setup Instructions
 # Clone the repository
@@ -62,9 +66,13 @@ Adyant Singh
 Aum Srivastava
 Saumya Prasad
 
-(Add teammates if you have any)
+(Add teammates here if applicable)
 
 📄 License
 
 MIT License © 2025 Vital Sync
+📄 License
+
+MIT License © 2025 Vital Sync
+
 
