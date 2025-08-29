@@ -1,4 +1,4 @@
-##🏥 Vital Sync – Post-Surgery Recovery Tracker
+🏥 Vital Sync – Post-Surgery Recovery Tracker
 
 Vital Sync is a modern, secure, and patient-centric platform designed to bridge the gap between patients and healthcare providers during the post-surgery recovery journey.
 It empowers patients to track their healing progress, while doctors and care teams gain valuable insights for timely interventions.
@@ -74,6 +74,7 @@ MIT License © 2025 Vital Sync
 📄 License
 
 MIT License © 2025 Vital Sync
+
 
 
 
